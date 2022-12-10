@@ -57,4 +57,48 @@
         </section>
         <section id="education">
             <h2>Education</h2>
-            <h3>Bachelor of Science in Computer Science</
+            <h3>Bachelor of Science in Computer Science/>
+                        <p>University of Technology, 2012-2016</p>
+            <ul>
+                <li>GPA: 3.8/4.0</li>
+                <li>Relevant coursework:
+                    <ul>
+                        <li>Web Development</li>
+                        <li>Software Engineering</li>
+                        <li>Algorithms and Data Structures</li>
+                        <li>Computer Networks</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section id="experience">
+            <h2>Experience</h2>
+            <h3>Web Developer</h3>
+            <p>ABC Company, 2016-present</p>
+            <ul>
+                <li>Develop and maintain company website and web applications</li>
+                <li>Collaborate with design and marketing teams to create user-friendly and visually appealing experiences</li>
+                <li>Implement and optimize performance and security measures</li>
+            </ul>
+            <h3>Software Engineer Intern</h3>
+            <p>XYZ Corporation, 2015 (summer)</p>
+            <ul>
+                <li>Contributed to the development of a large-scale enterprise application</li>
+                <li>Assisted with debugging and testing</li>
+                <li>Learned and applied agile software development methodologies</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Phone: 555-555-5555</p>
+            <p>Email: me@myportfolio.com</p>
+            <p>LinkedIn: linkedin.com/in/myportfolio</p>
+            <p>GitHub: github.com/myportfolio</p>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright My Portfolio 2022</p>
+    </footer>
+</body>
+</html>
+
