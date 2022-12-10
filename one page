@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <p>A collection of my work</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque risus sed justo bibendum, eu malesuada leo tempor. Nam fermentum mi ac nibh porttitor, eu tincidunt sem bibendum. Nulla mollis aliquam leo, non vehicula est pellentesque eu. Nam egestas odio a est hendrerit suscipit. Ut vel velit erat. In id nisl felis. Aenean condimentum, nisl ac sagittis scelerisque, lectus massa ultrices enim, id porta leo erat eget est. Sed porta pharetra mauris quis tempor.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <img src="project1.jpg" alt="Project 1">
+                    <h3>Project 1</h3>
+                    <p>A description of project 1 goes here</p>
+                </li>
+                <li>
+                    <img src="project2.jpg" alt="Project 2">
+                    <h3>Project 2</h3>
+                    <p>A description of project 2 goes here</p>
+                </li>
+                <li>
+                    <img src="project3.jpg" alt="Project 3">
+                    <h3>Project 3</h3>
+                    <p>A description of project 3 goes here</p>
+                </li>
+            </ul>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>PHP</li>
+                <li>Python</li>
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <h3>Bachelor of Science in Computer Science</
